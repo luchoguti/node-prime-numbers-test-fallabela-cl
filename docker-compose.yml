@@ -1,7 +1,7 @@
 version: '2'
 services:
     web:
-      image: nest-fallabela-cl/node
+      image: luchoguti9/node-prime-numbers-test-fallabela-cl:latest
       command: npm run start
       volumes:
         - .:/usr/app/
