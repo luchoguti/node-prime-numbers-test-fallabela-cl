@@ -34,7 +34,7 @@ Execute with file docker-compose.yml:
 $ docker-compose up -d
 ```
 
-Option two:
+Option Two:
 
 Clone repository:
 
