@@ -1,13 +1,13 @@
 ## Description
 
-Documentation Api calculate prime numbers
+Documentation Api calculate prime numbers.
 
 ## Pre - Installation
 
 The system should have installed:
 
 [NodeJs](https://nodejs.org/es/) -
-[NPM](https://www.npmjs.com/) -
+[NPM](https://www.npmjs.com/) or
 [Docker](https://www.docker.com/) 
 
 ## Installation
@@ -19,13 +19,15 @@ Downloader file : [docker-compose.yml](https://github.com/luchoguti/node-prime-n
 
 Option Two:
 
+Execute next commands Clone project:
+
 ```bash
 $ git clone https://github.com/luchoguti/node-prime-numbers-test-fallabela-cl.git
 $ cd node-prime-numbers-test-fallabela-cl
 $ npm install
 ```
 
-## Running the Api
+## Running service Api
 
 Option One:
 
