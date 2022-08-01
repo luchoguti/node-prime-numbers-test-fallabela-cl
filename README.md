@@ -17,7 +17,7 @@ Option One:
 Downloader file : [docker-compose.yml](https://github.com/luchoguti/node-prime-numbers-test-fallabela-cl/blob/master/docker-compose.yml)
 
 
-Option two:
+Option Two:
 
 ```bash
 $ git clone https://github.com/luchoguti/node-prime-numbers-test-fallabela-cl.git
@@ -49,4 +49,4 @@ $ npm run dev
 $ PORT=3003
 $ NUMBER_START_CALCULATE=2
 ```
-Go to visit url http://localhost:3003/prime_numbers/7 for example for calculate prime numbers
+Go to visit url http://localhost:3003/prime_numbers/7 for example for calculate prime numbers.
