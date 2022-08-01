@@ -1,0 +1,13 @@
+version: '2'
+services:
+    web:
+      image: nest-fallabela-cl/node
+      command: npm run start
+      volumes:
+        - .:/usr/app/
+        - /usr/app/node_modules
+      environment:
+        PORT: 3003
+        NUMBER_START_CALCULATE: 2
+      ports:
+        - "3003:3003"
